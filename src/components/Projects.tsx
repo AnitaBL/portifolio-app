@@ -1,4 +1,3 @@
-import { logDOM } from "@testing-library/react";
 import React from "react";
 import klar_logo_invert from "../assets/klar_logo_invert.png"
 import vandrebar from "../assets/vandrebar.jpg"
