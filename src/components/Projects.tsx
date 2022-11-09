@@ -1,6 +1,7 @@
 import { logDOM } from "@testing-library/react";
 import React from "react";
 import klar_logo_invert from "../assets/klar_logo_invert.png"
+import vandrebar from "../assets/vandrebar.jpg"
 
 const Projects = () => {
   return (
@@ -16,8 +17,14 @@ const Projects = () => {
             <p className="text-8xl justify-center font-lincoln font-bold inline border-b-4 border-gray-700">
               Verv
             </p>
-          </div>
-          <div className="sm:text-right pb-8 pl-4">
+            <p className="text-2xl justify-center">
+              Frivillig og verv er ett fast innslag i min studie hverdag. Selv har jeg deltatt...
+            </p>
+            <img
+              className="w-10"
+              src={vandrebar}
+              alt="Kielder Vandrebar"
+            />
           </div>
         </div>
       </div>
