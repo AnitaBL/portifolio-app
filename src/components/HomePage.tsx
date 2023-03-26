@@ -17,7 +17,7 @@ export const HomePage = () => {
           Jeg er en elsyser.
         </h2>
         <p className="text-[#848794] py-4 max-w-[700px]">
-          Takk for at du besøkte min side. Håper du finner noe som interesserer deg!
+          I 2021 startet jeg mitt studieløp som student ved NTNU Trondheim. Studiet Elektronisk systemdesign og innovasjon har gitt meg mange muligheter til å bli kjent med ulike fagfelt og fagmiljøer.
         </p>
         <div>
         <Link
