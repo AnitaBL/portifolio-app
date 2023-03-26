@@ -1,6 +1,6 @@
 import React from "react";
 import klar_logo_invert from "../assets/klar_logo_invert.png"
-import vandrebar from "../assets/vandrebar.jpg"
+
 
 const Projects = () => {
   return (
