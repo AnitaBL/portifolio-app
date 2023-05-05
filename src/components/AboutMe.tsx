@@ -1,5 +1,5 @@
 import React from "react";
-import klar_logo_invert from "../assets/klar_logo_invert.png"
+// import klar_logo_invert from "../assets/klar_logo_invert.png"
 import phaestumUte from "../assets/phaestumGløs.JPG"
 import styrephaest from "../assets/styrephaest.JPG"
 import AnitaRory from "../assets/AnitaRory.JPG"
